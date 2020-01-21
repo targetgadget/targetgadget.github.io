@@ -19,7 +19,12 @@ file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib/meta.dart
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.1/lib/plugin_platform_interface.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.1/lib/url_launcher.dart
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib/method_channel_url_launcher.dart
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib/url_launcher_platform_interface.dart
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.0+2/lib/url_launcher_web.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb3.dart
@@ -617,6 +622,10 @@ file:///C:/flutter/packages/flutter/lib/src/widgets/widget_inspector.dart
 file:///C:/flutter/packages/flutter/lib/src/widgets/widget_span.dart
 file:///C:/flutter/packages/flutter/lib/src/widgets/will_pop_scope.dart
 file:///C:/flutter/packages/flutter/lib/widgets.dart
-file:///D:/Documents/GitHub/targetgadget_web/.dart_tool/flutter_build/b4809db5b4da7cf69fdc67ebf77150ec/main.dart
+file:///C:/flutter/packages/flutter_web_plugins/lib/flutter_web_plugins.dart
+file:///C:/flutter/packages/flutter_web_plugins/lib/src/plugin_event_channel.dart
+file:///C:/flutter/packages/flutter_web_plugins/lib/src/plugin_registry.dart
+file:///D:/Documents/GitHub/targetgadget_web/.dart_tool/flutter_build/bc9df8610b861477e3ca774792a49439/main.dart
 file:///D:/Documents/GitHub/targetgadget_web/.packages
+file:///D:/Documents/GitHub/targetgadget_web/lib/generated_plugin_registrant.dart
 file:///D:/Documents/GitHub/targetgadget_web/lib/main.dart
